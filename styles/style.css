@@ -608,6 +608,9 @@ p{
 .text-center{
     text-align: center;
 }
+.text-justify{
+    text-align: justify;
+}
 .center{
     margin: 0 auto;
 }
